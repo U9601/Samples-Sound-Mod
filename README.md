@@ -1,3 +1,3 @@
 # Samples-Sound-Mod
 # This was just for testing purposes...
-# I have no affliction with the mod or the creation of it 
+# I have no affliction with the mod, its creation or updating of it
